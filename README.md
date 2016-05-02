@@ -2,7 +2,7 @@
 Windows based program that allows to manage folders and view images
 
 Abilities (Currently functioning) 02.05.16
-  Browse through folders (like windows explorer)
+	Browse through folders (like windows explorer)
   can view images with embedded viewer
     can navigate images within, using arrow keys
     enlarge image to its original size, or fit to screen
