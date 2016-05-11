@@ -16,21 +16,20 @@ Browse through folders (like windows explorer)
     tags can be added (e.g. beach, mountain, holiday)
     
     added tags can be selected for each folder, which can later be used to search
-  
-
-Future abilities (To be updated soon)
-
-  Favourites
+    
+  Favourites (Updated 11/05/16)
   
     functions to add specific folders/images to favourites section so it is easier to access them 
+
+Future abilities (To be updated soon)
     
   Search by tags
  
-    can search folders by tags
+    can search folders and images by tags
 
 
 
 
 disabled abilities (currently disabled functions, can be changed)
 
-  unable to view folders in files view (only displays images) <- currently debating to change
+  unable to view folders and others in files view (only displays images) <- currently debating to change
