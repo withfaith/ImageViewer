@@ -1,6 +1,21 @@
 # ImageViewer
 Windows based program that allows to manage folders and view images
 
+/////////////////////////////////////////////////////////////////////
+/////////////////////////////////////////////////////////////////////
+
+Currently released Official Release for Image Viewer 1.0v. 
+Please download setup.exe or ImageViewer.exe
+Please read User Manual 1.0v for installation and execution.
+Note: This program must be installed and executed as an Administrator
+
+/////////////////////////////////////////////////////////////////////
+/////////////////////////////////////////////////////////////////////
+
+
+
+
+
 Abilities (Currently functioning) 02.05.16
 
 Browse through folders (like windows explorer)
@@ -21,9 +36,8 @@ Browse through folders (like windows explorer)
   
     functions to add specific folders/images to favourites section so it is easier to access them 
 
-Future abilities (To be updated soon)
     
-  Search by tags
+  Search by tags (Updated 13/05/16)
  
     can search folders and images by tags
 
